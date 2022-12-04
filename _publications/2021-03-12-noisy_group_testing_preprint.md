@@ -3,7 +3,7 @@ title: "[Preprint] A Recovery Algorithm and Pooling Designs for One-Stage Noisy 
 collection: publications
 permalink: /publication/2021-03-12-noisy_group_testing_preprint
 excerpt: 'The main contributions of this paper include a practical one-stage group testing protocol guided by maximizing pool entropy and a maximum-likelihood recovery algorithm under the probabilistic framework.'
-date: 2021-03-12'
+date: 2021-03-12
 venue: 'medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2021.03.09.21253193v1'
 citation: 'Liu, Y., Kadyan, S., Pe’er, I. (2021). A Recovery Algorithm and Pooling Designs for One-Stage Noisy Group Testing Under the Probabilistic Framework. medRxiv 2021.03.09.21253193; doi: https://doi.org/10.1101/2021.03.09.21253193'
