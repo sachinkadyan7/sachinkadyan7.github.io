@@ -16,6 +16,6 @@ The findings highlight the implications of introducing randomness to the infecti
 
 **Available:** medRxiv [[External Link]](https://www.medrxiv.org/content/10.1101/2021.03.09.21253193v1)  
 **Collection:** *COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv*  
-**Subject Area:**: *Infectious Diseases*      
+**Subject Area:** *Infectious Diseases*      
 **Paper:** [[medRxiv Link]](https://www.medrxiv.org/content/10.1101/2021.03.09.21253193v1.full.pdf)  
 **Citation:** This is a preprint paper. Please refer to the final published paper.
