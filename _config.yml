@@ -76,6 +76,9 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+# Adding Google Analytics as per:
+# https://morotsman.github.io/blog,/google/analytics,/jekyll,/github/pages/2020/07/07/add-google-analytics.html
+google_analytics: "G-LHVMWCK159"
 
 
 # Site Author
