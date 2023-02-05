@@ -11,4 +11,5 @@ I was a Teaching Assistant and Instructor for the Natural Language Processing co
 
 As an Instructor, I planned and taught classes on Machine Learning, ML for NLP, Autoencoders, Convolutional NNs, Recurrent NNs, and attention-based networks.
 
-As a Teaching Assistant, I guided and led in-class and online discussions, and graded assignments and exams.
+As a Teaching Assistant, I guided and led in-class and online discussions, and graded assignments and exams. I also conducted weekly Office Hours to help
+clear students' doubts, and weekly class sessions where I taught the different computational techniques used in NLP. 
